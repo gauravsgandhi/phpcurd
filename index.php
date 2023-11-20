@@ -72,7 +72,7 @@
 				<li class="nav-item active"><a class="nav-link" href="index.php">Home
 						
 				</a></li>
-				<li class="nav-item active"><a class="nav-link" href="./create-new-employee.php">Add
+				<li class="nav-item active"><a class="nav-link" href="http://phpdemo-env.eba-6dkfnmfz.us-east-1.elasticbeanstalk.com/create-new-employee.php">Add
 						Employee</a></li>
 				<li class="nav-item dropdown"><a
 					class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
